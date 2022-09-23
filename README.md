@@ -1,5 +1,5 @@
 # Projectile Motion
-### Numerical analysis of projectile motion.
+### Numerical analysis of projectile motion
 <br/>
 
 In this project I analysed projectile motion with quadratic air drag, under windy conditions and also examined the Coriolis effect.
