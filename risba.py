@@ -1,8 +1,5 @@
 # plot image for transformation of coordinate systems
 
-# izboljšave: eliminate hardcoded stuff, naredi sliko tako, da samo radij vpišeš in se avtomatsko popravijo koordinate vseh stvari na sliki
-# čeprav tukaj ni tako nujno, saj je samo ena slika
-
 
 import matplotlib.pyplot as plt
 import numpy as np
