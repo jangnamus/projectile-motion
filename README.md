@@ -10,7 +10,7 @@ I used Python to obtain solutions numerically.
 <br/>
 <br/>
 
-The motion trajectory visualized:
+The trajectory of the motion visualized:
 <br/>
 
 ![Can't load .gif file](https://github.com/gnzasao/projectile-motion/blob/master/animated3d.gif)
